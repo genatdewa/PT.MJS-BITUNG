@@ -59,7 +59,7 @@
 /* Wave Animation Styles */
 .wave-header {
   position: relative;
-  overflow: hidden;
+  /* overflow: hidden; -- Removed to allow dropdown visibility */
 }
 
 .wave {
