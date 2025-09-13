@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "fish": "Fish",
+    "ice": "Ice Blocks",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "PT. MITRA JAYA SAMUDERA",
+    "subtitle": "Specialist in Fresh & Frozen Fish Production",
+    "description": "Providing high-quality fish from Indonesian waters with international standards",
+    "cta": "View Products"
+  },
+  "about": {
+    "title": "About the Company",
+    "description": "PT. Mitra Jaya Samudera is a company engaged in the fisheries sector with a focus on fish catching, fresh & frozen fish sales, and ice block production and sales. We are committed to providing high-quality products to meet domestic and international market needs.",
+    "services": {
+      "fishing": "Fish Catching",
+      "fresh_fish": "Fresh Fish Sales",
+      "frozen_fish": "Frozen Fish Sales",
+      "ice_production": "Ice Block Production"
+    }
+  },
+  "products": {
+    "title": "Our Fish Products",
+    "description": "We provide various types of high-quality fish caught directly from Indonesian waters",
+    "fish_types": {
+      "cakalang": {
+        "name": "Skipjack Tuna",
+        "description": "Fresh skipjack tuna with firm meat and delicious taste, suitable for various cooking preparations."
+      },
+      "tuna": {
+        "name": "Tuna",
+        "description": "Premium tuna with high protein content and tender meat texture."
+      },
+      "baby_tuna": {
+        "name": "Baby Tuna",
+        "description": "Young tuna with smaller size but still maintaining exceptional quality and taste."
+      },
+      "maesang": {
+        "name": "Maesang",
+        "description": "Fresh maesang fish with chewy meat characteristics and distinctive taste."
+      },
+      "tude": {
+        "name": "Tude",
+        "description": "Tude fish with tender meat suitable for various traditional dishes."
+      },
+      "malalugis": {
+        "name": "Malalugis",
+        "description": "Fresh malalugis fish with firm meat texture and appetizing taste."
+      },
+      "suru": {
+        "name": "Suru",
+        "description": "Suru fish with unique characteristics and delicious taste, popular in various regions."
+      },
+      "kababidak": {
+        "name": "Kababidak",
+        "description": "Fresh kababidak fish with chewy meat suitable for various preparations."
+      },
+      "deho": {
+        "name": "Deho",
+        "description": "Deho fish with tender meat texture and distinctive taste from Indonesian waters."
+      },
+      "lamadang": {
+        "name": "Lamadang",
+        "description": "Fresh lamadang fish with firm meat characteristics and exceptional taste."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Company Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Operating Hours"
+  },
+  "footer": {
+    "company": "PT. Mitra Jaya Samudera",
+    "description": "Specialist in Fresh & Frozen Fish Production",
+    "rights": "Copyright 2024. All rights reserved."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "products": "Produk",
+    "fish": "Ikan",
+    "ice": "Es Balok",
+    "contact": "Kontak",
+    "language": "Bahasa"
+  },
+  "hero": {
+    "title": "PT. MITRA JAYA SAMUDERA",
+    "subtitle": "Spesialis Produksi Ikan Segar & Beku",
+    "description": "Menyediakan ikan berkualitas tinggi dari laut Indonesia dengan standar internasional",
+    "cta": "Lihat Produk"
+  },
+  "about": {
+    "title": "Tentang Perusahaan",
+    "description": "PT. Mitra Jaya Samudera adalah perusahaan yang bergerak di bidang perikanan dengan fokus pada penangkapan ikan, penjualan ikan beku & segar, serta produksi dan penjualan es balok. Kami berkomitmen menyediakan produk berkualitas tinggi untuk memenuhi kebutuhan pasar domestik dan internasional.",
+    "services": {
+      "fishing": "Penangkapan Ikan",
+      "fresh_fish": "Penjualan Ikan Segar",
+      "frozen_fish": "Penjualan Ikan Beku",
+      "ice_production": "Produksi Es Balok"
+    }
+  },
+  "products": {
+    "title": "Produk Ikan Kami",
+    "description": "Kami menyediakan berbagai jenis ikan berkualitas tinggi yang ditangkap langsung dari perairan Indonesia",
+    "fish_types": {
+      "cakalang": {
+        "name": "Cakalang",
+        "description": "Ikan cakalang segar dengan daging yang padat dan rasa yang lezat, cocok untuk berbagai olahan masakan."
+      },
+      "tuna": {
+        "name": "Tuna",
+        "description": "Ikan tuna premium dengan kandungan protein tinggi dan tekstur daging yang lembut."
+      },
+      "baby_tuna": {
+        "name": "Baby Tuna",
+        "description": "Ikan tuna muda dengan ukuran yang lebih kecil namun tetap mempertahankan kualitas dan rasa yang istimewa."
+      },
+      "maesang": {
+        "name": "Maesang",
+        "description": "Ikan maesang segar dengan karakteristik daging yang kenyal dan rasa yang khas."
+      },
+      "tude": {
+        "name": "Tude",
+        "description": "Ikan tude dengan daging yang lembut dan cocok untuk berbagai jenis masakan tradisional."
+      },
+      "malalugis": {
+        "name": "Malalugis",
+        "description": "Ikan malalugis segar dengan tekstur daging yang padat dan rasa yang menggugah selera."
+      },
+      "suru": {
+        "name": "Suru",
+        "description": "Ikan suru dengan karakteristik unik dan rasa yang lezat, populer di berbagai daerah."
+      },
+      "kababidak": {
+        "name": "Kababidak",
+        "description": "Ikan kababidak segar dengan daging yang kenyal dan cocok untuk berbagai olahan."
+      },
+      "deho": {
+        "name": "Deho",
+        "description": "Ikan deho dengan tekstur daging yang lembut dan rasa yang khas dari perairan Indonesia."
+      },
+      "lamadang": {
+        "name": "Lamadang",
+        "description": "Ikan lamadang segar dengan karakteristik daging yang padat dan rasa yang istimewa."
+      }
+    }
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "address": "Alamat Perusahaan",
+    "phone": "Telepon",
+    "email": "Email",
+    "hours": "Jam Operasional"
+  },
+  "footer": {
+    "company": "PT. Mitra Jaya Samudera",
+    "description": "Spesialis Produksi Ikan Segar & Beku",
+    "rights": "Hak Cipta 2024. Semua hak dilindungi."
+  }
+}
